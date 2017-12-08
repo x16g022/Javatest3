@@ -7,7 +7,7 @@ public class Javatest3 {
 		System.out.println("テスト3回目");
 		System.out.println("な ん ど め だ");
 		System.out.println("(∴)人(∵)");
-		System.out.println("二人は異形キュア！！！");
+		System.out.println("二人はバケキュア！！！");
 	}
 
 }
