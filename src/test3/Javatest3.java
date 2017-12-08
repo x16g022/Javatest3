@@ -8,6 +8,9 @@ public class Javatest3 {
 		System.out.println("な ん ど め だ");
 		System.out.println("(∴)人(∵)");
 		System.out.println("二人はバケキュア！！！");
+		System.out.println("D4C");
+		
+
 	}
 
 }
